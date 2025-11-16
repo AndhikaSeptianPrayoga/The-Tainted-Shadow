@@ -1,0 +1,26 @@
+# Unreal Engine – file yang tidak perlu di‑commit
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Cache/Log/Temp
+*.log
+*.tmp
+
+# IDE/Editor
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.opensdf
+*.sdf
+*.VC.db
+Thumbs.db
+.DS_Store
+
+# Backup
+*.bak
